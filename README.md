@@ -1,14 +1,14 @@
-# Azure Monitoring Hackathon
+# Azure Monitoring Hackathon for ViaCode
 
 ## Overview
 
 ### This challenged based Azure Monitoring Hackathon is intended to teach how to monitor Azure workloads. During these three days you will be working Azure Monitor, Log Analytics and Application Insights.
 
-[Setup Guide](https://github.com/rkuehfus/AzureMonitoringHackathon/blob/master/Student/Guides/Deployment%20Setup%20Guide.docx?raw=true)
+[Setup Guide](https://github.com/via-clouds/AzureMonitoringHackathon/blob/master/Student/Guides/Deployment%20Setup%20Guide.docx?raw=true)
 
-[Challenges](https://github.com/rkuehfus/AzureMonitoringHackathon/blob/master/Student/Guides/Challenges.pptx?raw=true)
+[Challenges](https://github.com/via-clouds/AzureMonitoringHackathon/blob/master/Student/Guides/Challenges.pptx?raw=true)
 
-[Proctors Guide](https://github.com/rkuehfus/AzureMonitoringHackathon/blob/master/Host/Guides/Proctors%20Guide.docx?raw=true)
+[Proctors Guide](https://github.com/via-clouds/AzureMonitoringHackathon/blob/master/Host/Guides/Proctors%20Guide.docx?raw=true)
 
 ## Goals
 
@@ -25,59 +25,3 @@
 ### 3. Access to a machine with Visual Studio Code and the Azure PowerShell Modules loaded or Azure CLI.  VS Code ARM and PowerShell extensions should be configured.
 
 ![alt text](https://raw.githubusercontent.com/rkuehfus/AzureMonitoringHackathon/master/monitoringhackdiagram.png)
-
-# Agenda
-
-## Day 1
-
-### 9 – 9:30 AM: Kickoff & Introductions
-
-### 9:30  - 10:30 AM: Deploy Lab
-
-### 10:30 - 10:45 AM: Break
-
-### 10:45  - Noon: Azure Security & Management and Monitor Overviews
-
-### Noon – 1 PM: Lunch
-
-### 1 – 3 PM: Monitor and Alert Rule Challenges begin
-
-### 3 – 3:15 PM: Break
-
-### 3:15 – 5 PM: Monitor and Alert Rule Automation Challenges begins
-
-## Day 2
-
-### 9 – 9:30 AM: Team Sync up (what did you learn from Day 1?, how did it go?, blocked?)
-
-### 9:30  - 10:15 AM: Log Analytics Overview
-
-### 10:15 - 10:30 AM: Break
-
-### 10:30 - Noon: Log Analytics Challenges Start
-
-### Noon – 1 PM: Lunch
-
-### 1  – 3 PM: Log Analytics Dashboard Challenges Start
-
-### 3 – 3:15 PM: break
-
-### 3:15 – 5 PM: Log Analytics Challanges (complete)
-
-## Day 3
-
-### 9 – 9:30 AM: Team Sync up (what did you learn from Day 2?, how did it go?, blocked?)
-
-### 9:30  - 10:15 AM: App Insights Overview
-
-### 10:15 - 10:30 AM: Break
-
-### 10:30 - Noon: App Insights Challenges Start
-
-### Noon – 1 PM: Lunch
-
-### 1  – 3 PM: App Insights Challenges Continues 
-
-### 3 – 4 PM: Plan & Whiteboard Monitoring for existing Application 
-
-
